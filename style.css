@@ -1,6 +1,11 @@
 #world{
-    background-color: black;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Solarsystemscope_texture_2k_stars_milky_way.jpg/1280px-Solarsystemscope_texture_2k_stars_milky_way.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
     position: absolute;
+    /* opacity: 0.9; */
     left: 50vw;
     top: 50vh;
 }
